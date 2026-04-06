@@ -1,4 +1,4 @@
-# Simulador de Investimnetos
+# Simulador de Investimentos
 
 Projeto simples em Python para simular o crescimento de um investimento com juros compostos.
 
